@@ -180,7 +180,7 @@ nav {
 		text-align: center;
 	}
 	.intro-text h1 {
-		font-size: 30px;
+		font-size: 25px;
 	}
 	.intro-text p{
 		font-size: 18px;
@@ -195,7 +195,7 @@ nav {
 		transform: translate(50%, 5%);
 	}
 	.cover img {
-		height: 80%;
+		height: 70%;
 	}
 	.big-circle, .bubble2, .bubble3 {
 		opacity: 0.1;
